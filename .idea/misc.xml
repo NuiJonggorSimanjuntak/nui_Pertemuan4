@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/drawable/custom_dialog_background.xml" value="0.1665" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/drawable/success.xml" value="0.1025" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/activity_custom_dialog.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/activity_tampil.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/custom_dialog_layout.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/custome_layout.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/layout/fragment_first.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/SEMESTER VI/MOBILE PEMROGRAMMING/nui_Pertemuan4/app/src/main/res/menu/main.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
